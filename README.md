@@ -1,12 +1,39 @@
-- 👋 Hi, I’m @DeibD1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 💻 Hi, mi name is DeibD1
 
-<!---
-DeibD1/DeibD1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🚀 Sobre mí
+
+¡Hola! Soy **DeibD1**, estudiante de **Ingeniería de Sistemas**. Apasionado por la tecnología, el desarrollo de software y los videojuegos. Me interesa la **automatización**, la **inteligencia artificial** y el desarrollo de videojuegos con **Unreal Engine**.
+
+---
+
+## 🎯 Objetivos
+
+Mi meta es crear una **empresa de programación en Canadá**, enfocada en desarrollar software que facilite tareas tanto para jóvenes como para adultos, mejorando su calidad de vida a través de la tecnología.
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+### Lenguajes
+- Python
+- JavaScript
+- SQL
+
+### Frameworks y motores
+- Unreal Engine 5
+- PaperZD
+
+### Bases de datos
+- MySQL
+- PostgreSQL
+
+### Herramientas
+- Git
+- Docker
+- Linux
+
+---
+
+¡Gracias por visitar mi perfil! 😊
