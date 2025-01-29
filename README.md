@@ -1,4 +1,4 @@
-# 💻 Hi, mi name is DeibD1
+# 💻 Hi, my name is DeibD1
 
 ## 🚀 Sobre mí
 
